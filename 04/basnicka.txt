@@ -1,3 +1,4 @@
 ahoooj
 ako?
 abc
+konec master
